@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  mongo:
+    image: mongo:4.0
+    # On windows this is causing troubles, so the data is populated from a stub on init instead
+#    volumes:
+#      - ./db:/data/db
+#      - ./db/configdb:/data/configdb
+    ports:
+      - "27017:27017"
