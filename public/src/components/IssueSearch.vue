@@ -5,12 +5,11 @@
                   @submit="showSolutions"
                   placeholder="Please describe your issue:"
                   aria-label="Please describe your issue:"
-                  class=""
     />
     <b-card
       v-for="solutionByCategory of solutionsByCategory" v-bind:key="solutionByCategory.issueType"
-      class="mt-3"
       :title="solutionByCategory.issueType | capitalize"
+      class="mt-3"
     >
       <b-card-text>
         <b-list-group>

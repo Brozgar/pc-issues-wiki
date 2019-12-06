@@ -40,7 +40,7 @@ Sample data for the DB provided in sample-data.json file.
 
 ## Comments on the project
 
-I tried to finish the task as fast as possible, which took me around 6 hours. It would take me less if I wouldn't use Windows as an OS due to some OS related issues I came across.
+I tried to finish the task as fast as possible, which took me around 6 hours. That was my first Vue app, so it took some researching. Also it would take me less if I wouldn't use Windows as an OS due to some OS related issues I came across.
 
 I kept the original data structure from the provided JSON for the database, but I would change it, making each issue type a separate mongo document.
 
