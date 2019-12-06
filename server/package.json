@@ -4,6 +4,7 @@
   "description": "A very simple project that was done as a test task from an employer. Time was of the essence, so I did only the basic architecture with minimum functionality to provide mvp.",
   "author": "Dmitriy Gamolin (dimademir@gmail.com)",
   "private": false,
+  "license": "MIT",
   "scripts": {
     "startBackend": "node ./bin/www"
   },
