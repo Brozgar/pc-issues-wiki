@@ -46,4 +46,4 @@ I kept the original data structure from the provided JSON for the database, but 
 
 There's close to none data manipulation in this project, so I decided to go with Vue, I would choose React otherwise.
 
-Once you start the server app it will automatically populate the DB with a collection and a single document that is used for this task. It is taken from "stubs" folder under server directory. I added and issue with symptom "desktop computer or laptop won't turn on" to Windows type as well to demonstrate how it would show results from multiple types, so feel free to search for it.
+Once you start the server app it will automatically populate the DB with a collection and a single document that is used for this task. It is taken from "stubs" folder under server directory. I added an issue with a symptom "desktop computer or laptop won't turn on" to the Windows type to demonstrate how it would show results from multiple types, so feel free to search for it.
